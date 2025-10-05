@@ -7,7 +7,7 @@ public class Exercicio03 {
 
         System.out.println("Faça um programa que peça ao usuário o valor do relógio de água de uma residência no dia 1º do mês e no dia 30º do mesmo mês. Depois mostre quantos litros foram consumidos e a média por dia. considere 30 dias.");
 
-        System.out.println("--------------------------------------------");
+        System.out.println("--------------------------------------------\n");
 
         double relogio1, relogio30, litros, media;
         Scanner s = new Scanner(System.in);

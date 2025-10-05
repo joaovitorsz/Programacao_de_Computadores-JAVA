@@ -7,7 +7,7 @@ public class Exercicio02 {
 
         System.out.println("Faça um programa que peça um número ao usuário. Exiba se esse número é Par ou Ímpar (use o operador de resto da divisão - mod %).");
 
-        System.out.println("----------------------------------------");
+        System.out.println("----------------------------------------\n");
 
         int num;
         Scanner s = new Scanner(System.in);

@@ -7,7 +7,7 @@ public class Exercicio04 {
 
         System.out.println("Faça um programa que peça ao usuário um número inteiro qualquer. Se ele for maior que 10 e menor que 100, calcule a potência dele elevado a 2. Se ele for maior que 100 ou menor que 10, exiba a raiz quadrada do valor. Exiba os valores com 5 casas decimais.");
 
-        System.out.println("-------------------------------------------");
+        System.out.println("-------------------------------------------\n");
 
         int num;
         double resultado1, resultado2;

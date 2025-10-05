@@ -7,7 +7,7 @@ public class Exercicio01 {
 
         System.out.println("Faça um programa que peça dois números inteiros ao usuário. Depois exiba se o primeiro é maior, menor ou igual ao segundo.");
 
-        System.out.println("--------------------------------------------------------");
+        System.out.println("--------------------------------------------------------\n");
 
         int num1, num2;
         Scanner s = new Scanner(System.in);
